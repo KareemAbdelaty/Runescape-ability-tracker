@@ -1,0 +1,17 @@
+
+Easy Setup
+Saving Ability Bars (pickle)
+Loading ability Bars
+GUI
+APM
+4 tick efficeny
+dps gem
+Brew debuff
+Adrenline lost to eating
+missed ring switch
+average projected dpm 
+Mouse tracker
+Fix shift/control combination key glitch
+rotation analyzer
+ctrl button changing inputs
+	
